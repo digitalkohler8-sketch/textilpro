@@ -1,0 +1,80 @@
+[
+  {
+    "id": "mmnswh2pgpgy24wed",
+    "nome": "Tear 01",
+    "fabricante": "Mayer & Cie",
+    "modelo": "OVJA 1.6 E",
+    "diametro": 30,
+    "gauge": 28,
+    "alimentadores": 90,
+    "rpmNominal": 26,
+    "tipoMalha": "Jersey Simples",
+    "status": "ativa",
+    "criadoEm": "2026-03-12T18:28:07.921Z"
+  },
+  {
+    "id": "mmnswh2p7rrv8spfn",
+    "nome": "Tear 02",
+    "fabricante": "Orizio",
+    "modelo": "JBSG",
+    "diametro": 34,
+    "gauge": 24,
+    "alimentadores": 96,
+    "rpmNominal": 24,
+    "tipoMalha": "Rib",
+    "status": "ativa",
+    "criadoEm": "2026-03-12T18:28:07.921Z"
+  },
+  {
+    "id": "mmnswh2paf03ymcyn",
+    "nome": "Tear 03",
+    "fabricante": "Mayer & Cie",
+    "modelo": "OVJA 2.4 EM",
+    "diametro": 26,
+    "gauge": 20,
+    "alimentadores": 72,
+    "rpmNominal": 28,
+    "tipoMalha": "Interlock",
+    "status": "manutencao",
+    "criadoEm": "2026-03-12T18:28:07.921Z"
+  },
+  {
+    "id": "mmnswh2pshpsv28qx",
+    "nome": "Tear 04",
+    "fabricante": "Groz-Beckert",
+    "modelo": "litespeed",
+    "diametro": 30,
+    "gauge": 28,
+    "alimentadores": 84,
+    "rpmNominal": 30,
+    "tipoMalha": "Jersey Simples",
+    "status": "ativa",
+    "criadoEm": "2026-03-12T18:28:07.921Z"
+  },
+  {
+    "id": "mmnswh2q2ry90lrnt",
+    "nome": "Tear 05",
+    "fabricante": "Mayer & Cie",
+    "modelo": "Relanit 3.2 HS",
+    "diametro": 32,
+    "gauge": 24,
+    "alimentadores": 108,
+    "rpmNominal": 22,
+    "tipoMalha": "Piquet",
+    "status": "ativa",
+    "criadoEm": "2026-03-12T18:28:07.922Z"
+  },
+  {
+    "id": "mmnswh2qwctnazb0t",
+    "nome": "Tear 06",
+    "fabricante": "Orizio",
+    "modelo": "JBSN",
+    "diametro": 28,
+    "gauge": 28,
+    "alimentadores": 78,
+    "rpmNominal": 25,
+    "tipoMalha": "Jersey Simples",
+    "status": "parada",
+    "criadoEm": "2026-03-12T18:28:07.922Z"
+  }
+]

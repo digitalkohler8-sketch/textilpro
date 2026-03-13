@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mmnswh3g37xr71jzg",
+    "nome": "Confecções Silva Ltda",
+    "cnpj": "12.345.678/0001-90",
+    "email": "contato@silva.com",
+    "telefone": "(47) 3333-1111",
+    "cidade": "Brusque",
+    "estado": "SC",
+    "endereco": "Rua das Indústrias, 100",
+    "categoria": "A",
+    "criadoEm": "2026-03-12T18:28:07.948Z"
+  },
+  {
+    "id": "mmnswh3gf5dfeiuv9",
+    "nome": "Malhas Brasil S.A.",
+    "cnpj": "98.765.432/0001-10",
+    "email": "compras@malhasbrasil.com",
+    "telefone": "(11) 4444-2222",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "endereco": "Av. Comercial, 500",
+    "categoria": "A",
+    "criadoEm": "2026-03-12T18:28:07.948Z"
+  },
+  {
+    "id": "mmnswh3gjui9eiune",
+    "nome": "Têxtil Norte ME",
+    "cnpj": "11.222.333/0001-44",
+    "email": "norte@textil.com",
+    "telefone": "(85) 5555-3333",
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "endereco": "Rua da Malha, 200",
+    "categoria": "B",
+    "criadoEm": "2026-03-12T18:28:07.948Z"
+  },
+  {
+    "id": "mmnswh3gyrshzreu0",
+    "nome": "Vestuário Premium Ltda",
+    "cnpj": "44.555.666/0001-77",
+    "email": "premium@vest.com",
+    "telefone": "(47) 6666-4444",
+    "cidade": "Blumenau",
+    "estado": "SC",
+    "endereco": "Rua Textil, 80",
+    "categoria": "B",
+    "criadoEm": "2026-03-12T18:28:07.948Z"
+  }
+]

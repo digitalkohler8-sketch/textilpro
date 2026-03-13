@@ -1,0 +1,52 @@
+[
+  {
+    "id": "mmnswh2z7jxgfqa2q",
+    "titulo": "30/1",
+    "composicao": "100% Algodão",
+    "cor": "Branco",
+    "fornecedor": "Coteminas",
+    "precoPorKg": 28.5,
+    "estoqueMinimo": 500,
+    "criadoEm": "2026-03-12T18:28:07.932Z"
+  },
+  {
+    "id": "mmnswh30pfiai6ijy",
+    "titulo": "24/1",
+    "composicao": "100% Algodão",
+    "cor": "Preto",
+    "fornecedor": "Paramount",
+    "precoPorKg": 32,
+    "estoqueMinimo": 300,
+    "criadoEm": "2026-03-12T18:28:07.932Z"
+  },
+  {
+    "id": "mmnswh30amq0smujk",
+    "titulo": "40/1",
+    "composicao": "100% Algodão Penteado",
+    "cor": "Cru",
+    "fornecedor": "Dalila",
+    "precoPorKg": 38.9,
+    "estoqueMinimo": 400,
+    "criadoEm": "2026-03-12T18:28:07.932Z"
+  },
+  {
+    "id": "mmnswh30vc4qg4rnl",
+    "titulo": "28/1",
+    "composicao": "50% Algodão 50% Poliéster",
+    "cor": "Mescla",
+    "fornecedor": "Coteminas",
+    "precoPorKg": 25.8,
+    "estoqueMinimo": 600,
+    "criadoEm": "2026-03-12T18:28:07.932Z"
+  },
+  {
+    "id": "mmnswh30eukczjftw",
+    "titulo": "150D",
+    "composicao": "100% Poliéster",
+    "cor": "Diversas",
+    "fornecedor": "Unifi",
+    "precoPorKg": 22,
+    "estoqueMinimo": 400,
+    "criadoEm": "2026-03-12T18:28:07.932Z"
+  }
+]

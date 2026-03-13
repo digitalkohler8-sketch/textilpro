@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mmntdzfkk3ieed1bh",
+    "nitaId": "",
+    "maquinaId": "mmnswh2pgpgy24wed",
+    "operador": "fifkf",
+    "turno": "manha",
+    "quantidadeProduzida": 205,
+    "numRolos": 20,
+    "tempoProducao": 393,
+    "tempoParada": 345,
+    "motivoParada": "",
+    "data": "2026-03-12",
+    "nitaNumero": "",
+    "maquinaNome": "Tear 01",
+    "eficiencia": 3.5,
+    "criadoEm": "2026-03-12T18:41:44.865Z"
+  }
+]

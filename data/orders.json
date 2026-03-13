@@ -1,0 +1,21 @@
+[
+  {
+    "id": "mmntbp97z95cinqoh",
+    "numero": "NITA-001",
+    "clienteId": "mmnswh3g37xr71jzg",
+    "clienteNome": "Confecções Silva Ltda",
+    "maquinaId": "mmnswh2pgpgy24wed",
+    "maquinaNome": "Tear 01",
+    "fioId": "mmnswh30vc4qg4rnl",
+    "fioNome": "28/1 Mescla",
+    "fichaTecnicaId": "",
+    "fichaTecnicaNome": "",
+    "quantidadeSolicitada": 9595,
+    "dataEntrega": "2026-03-20",
+    "observacoes": "",
+    "status": "concluida",
+    "quantidadeProduzida": 0,
+    "criadoEm": "2026-03-12T18:39:58.363Z",
+    "atualizadoEm": "2026-03-12T18:39:58.363Z"
+  }
+]

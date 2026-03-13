@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mmnswh40a4h60ijf4",
+    "nome": "Coteminas S.A.",
+    "cnpj": "33.444.555/0001-00",
+    "email": "vendas@coteminas.com",
+    "telefone": "(31) 1111-0000",
+    "cidade": "Montes Claros",
+    "estado": "MG",
+    "tipo": "Fio",
+    "criadoEm": "2026-03-12T18:28:07.968Z"
+  },
+  {
+    "id": "mmnswh40e87la2x8l",
+    "nome": "Paramount Têxteis",
+    "cnpj": "55.666.777/0001-22",
+    "email": "comercial@paramount.com",
+    "telefone": "(11) 2222-1111",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "tipo": "Fio",
+    "criadoEm": "2026-03-12T18:28:07.968Z"
+  },
+  {
+    "id": "mmnswh408jvmghpds",
+    "nome": "Agulhas Groz-Beckert",
+    "cnpj": "77.888.999/0001-33",
+    "email": "brasil@groz-beckert.com",
+    "telefone": "(47) 3333-2222",
+    "cidade": "Blumenau",
+    "estado": "SC",
+    "tipo": "Peças",
+    "criadoEm": "2026-03-12T18:28:07.968Z"
+  }
+]
