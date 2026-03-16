@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
+import { useState } from 'react';
 
 const menuItems = [
     {
@@ -65,6 +66,11 @@ const menuItems = [
 
 export default function Sidebar() {
     const pathname = usePathname();
+    const [collapsed, setCollapsed] = useState<Record<string, boolean>>({});
+
+    const toggleSection = (section: string) => {
+        setCollapsed(prev => ({ ...prev, [section]: !prev[section] }));
+    };
 
     return (
         <aside className="sidebar">
@@ -79,8 +85,15 @@ export default function Sidebar() {
             <nav className="sidebar-nav">
                 {menuItems.map((section) => (
                     <div key={section.section} className="sidebar-section">
-                        <div className="sidebar-section-title">{section.section}</div>
-                        {section.items.map((item) => (
+                        <div
+                            className="sidebar-section-title"
+                            onClick={() => toggleSection(section.section)}
+                            style={{ cursor: 'pointer', userSelect: 'none', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}
+                        >
+                            {section.section}
+                            <span style={{ fontSize: '9px', opacity: 0.5 }}>{collapsed[section.section] ? '▶' : '▼'}</span>
+                        </div>
+                        {!collapsed[section.section] && section.items.map((item) => (
                             <Link
                                 key={item.href}
                                 href={item.href}

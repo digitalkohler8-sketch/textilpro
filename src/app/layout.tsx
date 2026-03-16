@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import Sidebar from "@/components/Sidebar";
 import { ToastProvider } from "@/components/Toast";
@@ -6,6 +6,12 @@ import { ToastProvider } from "@/components/Toast";
 export const metadata: Metadata = {
   title: "TextilPro - Sistema de Gestão para Malharias",
   description: "Sistema completo para gestão de malharias: produção, estoque, financeiro, manutenção e CRM. Organize seus dados com segurança e praticidade.",
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
 };
 
 export default function RootLayout({
